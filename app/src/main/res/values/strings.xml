@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="favourites">Favourites</string>
+    <string name="filter">Filter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="description">Description</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">Steps</string>
+    <string name="meal">Meal :</string>
+    <string name="order">Order :</string>
+
+    <string-array name="mealArray">
+        <item>Any</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+
+    <string-array name="orderArray">
+        <item>Default</item>
+        <item>Asc</item>
+        <item>Desc</item>
+    </string-array>
+</resources>
